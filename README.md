@@ -2,7 +2,7 @@
 Crear un app para la gestión de una lista de tareas sin backend, aplicando la gestión del estado centralizada con vuex.
 
 Se crearemos un árbol de componentes de acuerdo al siguiente mockup
-![Image of Yaktocat](static\mockup.jpg)
+![Image of Yaktocat](static/mockup.jpg)
 
 ## Build Setup
 
