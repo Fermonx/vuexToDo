@@ -6,13 +6,13 @@ Se crearemos un árbol de componentes de acuerdo al siguiente mockup
 ![Image of Yaktocat](static/mockup.jpg)
 
 ## Features:
-> Input para añadir tareas (todos)
-> Poder marcar como completada cada tarea
-> Cambiar el style de las tareas completadas
-> Poder borrar tareas individualmente
-> Poder cambiar el color de las tareas utilizando un picker de color de terceros
-> Borrar todas las tareas completadas
-> Filtrar y mostrar las tareas no completadas
+* Input para añadir tareas (todos)
+* Poder marcar como completada cada tarea
+* Cambiar el style de las tareas completadas
+* Poder borrar tareas individualmente
+* Poder cambiar el color de las tareas utilizando un picker de color de terceros
+* Borrar todas las tareas completadas
+* Filtrar y mostrar las tareas no completadas
 ## Build Setup
 
 ``` bash
