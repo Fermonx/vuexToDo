@@ -1,16 +1,21 @@
 <template>
   <div id="app">
+
+    <lista></lista>
+
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App',
+  name: 'app',
+  data:{
+  },
 }
 </script>
 
 <style>
 #app {
-  
+
 }
 </style>

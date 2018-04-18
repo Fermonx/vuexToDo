@@ -30,6 +30,7 @@ module.exports = {
     }
   },
   module: {
+
     rules: [
       {
         test: /\.vue$/,
@@ -79,4 +80,4 @@ module.exports = {
     tls: 'empty',
     child_process: 'empty'
   }
-}
+};
